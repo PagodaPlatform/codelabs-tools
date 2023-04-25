@@ -18,7 +18,7 @@ package types
 import (
 	"time"
 
-	"github.com/googlecodelabs/tools/claat/nodes"
+	"github.com/pagodaplatform/codelabs-tools/claat/nodes"
 )
 
 // Meta contains a single codelab metadata.

@@ -57,7 +57,7 @@ $ export PATH=$PATH:$GOROOT/bin
 #### Install claat
 Install claat
 ``` bash
-$ go get -u -v -x github.com/googlecodelabs/tools/claat
+$ go get -u -v -x github.com/pagodaplatform/codelabs-tools/claat
 ```
 
 You should now have the *claat* command available to you. 

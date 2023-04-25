@@ -24,10 +24,10 @@ import (
 
 	"golang.org/x/net/html"
 
-	"github.com/googlecodelabs/tools/claat/nodes"
-	"github.com/googlecodelabs/tools/claat/parser"
-	"github.com/googlecodelabs/tools/claat/render"
-	"github.com/googlecodelabs/tools/claat/types"
+	"github.com/pagodaplatform/codelabs-tools/claat/nodes"
+	"github.com/pagodaplatform/codelabs-tools/claat/parser"
+	"github.com/pagodaplatform/codelabs-tools/claat/render"
+	"github.com/pagodaplatform/codelabs-tools/claat/types"
 )
 
 func trimMarkupSpace(s string) string {

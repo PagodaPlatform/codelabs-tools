@@ -28,10 +28,10 @@ import (
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 
-	"github.com/googlecodelabs/tools/claat/nodes"
-	"github.com/googlecodelabs/tools/claat/parser"
-	"github.com/googlecodelabs/tools/claat/types"
-	"github.com/googlecodelabs/tools/claat/util"
+	"github.com/pagodaplatform/codelabs-tools/claat/nodes"
+	"github.com/pagodaplatform/codelabs-tools/claat/parser"
+	"github.com/pagodaplatform/codelabs-tools/claat/types"
+	"github.com/pagodaplatform/codelabs-tools/claat/util"
         "github.com/stoewer/go-strcase"
 )
 

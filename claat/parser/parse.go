@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/googlecodelabs/tools/claat/nodes"
-	"github.com/googlecodelabs/tools/claat/types"
+	"github.com/pagodaplatform/codelabs-tools/claat/nodes"
+	"github.com/pagodaplatform/codelabs-tools/claat/types"
 )
 
 // Parser parses a codelab in specific resource format.
