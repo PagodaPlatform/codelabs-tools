@@ -1,4 +1,4 @@
-module github.com/PagodaPlatform/codelabs-tools/claat
+module github.com/pagodaplatform/codelabs-tools/claat
 
 go 1.16
 
